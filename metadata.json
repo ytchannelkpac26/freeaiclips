@@ -1,0 +1,8 @@
+{
+  "name": "ClipViral AI",
+  "description": "An AI-powered platform that transforms long-form videos into viral, short-form TikTok clips with auto-captions and engagement analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
